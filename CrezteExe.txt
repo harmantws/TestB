@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import=comtypes.stream --noconsole --name AutoBilling --icon="crowned-skull_39256.ico" app.py
